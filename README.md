@@ -1,10 +1,14 @@
 # sbb
 
-[점프 투 스프링부트] Spring Boot Board
+[점프 투 스프링부트] [Spring Boot Board](https://wikidocs.net/book/7601)
 
 ## 👩🏻‍💻 프로젝트 소개
 
 게시판 웹 사이트로 회원 간 게시글을 작성하고 게시글에 대한 질문 및 답변을 할 수 있는 게시판 서비스
+
+## 🔗 링크
+
+[ssb](https://iinnaa99.github.io/sbb/)
 
 ## 📌 기술 스택
 
@@ -23,6 +27,11 @@
 
 
 ## 🖥️ 화면
+
+![1](https://github.com/user-attachments/assets/a2a9d71e-1aa3-46f7-9dd1-79ffe7249380)
+![2](https://github.com/user-attachments/assets/a97096d2-5ba5-4d68-ae28-1fa7f9db2536)
+![3](https://github.com/user-attachments/assets/7e558b2a-4eb9-45fc-8c09-1a298b725a68)
+
 
 ## 💡 주요 기능
 
