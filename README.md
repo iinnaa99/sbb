@@ -8,7 +8,7 @@
 
 ## 🔗 링크
 
-[ssb](https://iinnaa99.github.io/sbb/)
+[iina's Spring Boot Board](https://iinas-spring-boot-board.onrender.com/)
 
 ## 📌 기술 스택
 
@@ -23,7 +23,19 @@
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/jpa-0769AD?style=for-the-badge&logo=&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Database**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infra & Deploy**
+
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+**Build**
+
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
 
 
 ## 🖥️ 화면
@@ -46,4 +58,5 @@
 
 ## 📅 개발 기간
 
-2024.12
+- 웹페이지 개발: 2024.12
+- 서버 & DB: 2025.08
